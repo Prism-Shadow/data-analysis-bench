@@ -2,7 +2,7 @@
 
 Task data, environments and verifiers for the following PenguinHarness packages.
 
-- [sec-a](data/penguinharness-benchmark-sec-a/README.md) · [package](https://github.com/Prism-Shadow/penguin-harness-benchmark/tree/main/packages/penguinharness-benchmark-sec-a)
+- [sec-a](penguinharness-benchmark-sec-a/README.md) · [package](https://github.com/Prism-Shadow/penguin-harness-benchmark/tree/main/packages/penguinharness-benchmark-sec-a)
 
 ## Running a task (for agents)
 

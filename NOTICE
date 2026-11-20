@@ -5,7 +5,7 @@ See LICENSE and each dataset's SOURCE.md for provenance and terms.
 See THIRD_PARTY_NOTICES.md for the source attribution.
 
 rag-bench-essential
-  data/penguinharness-benchmark-sec-a/tasks/
+  penguinharness-benchmark-sec-a/tasks/
   https://github.com/Prism-Shadow/rag-bench-essential (commit 979adae)
   Copyright 2026 PrismShadow. The code (scorer, validators, reference
   solutions) is licensed under the MIT License.
@@ -13,4 +13,4 @@ rag-bench-essential
   Their payloads remain under their source benchmarks' terms and are
   redistributed by decision of the upstream owner (PrismShadow, 2026-10-04).
   The upstream LICENSE and THIRD_PARTY_NOTICES.md are kept at
-  data/penguinharness-benchmark-sec-a/upstream-notices/.
+  penguinharness-benchmark-sec-a/upstream-notices/.
